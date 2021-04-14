@@ -1,0 +1,14 @@
+Enter a example of the (Infix Expression - Real Example) to see the result.
+Infix Expression - Concepts
+A + B * C + D
+(A + B) * (C + D)
+A * B + C * D
+A + B + C + D
+
+Infix Expression - Real Example
+6 + 3 * 6 + 5
+(4 + 6) * (1 + 3)
+2 * 3 + 1 * 12
+3 + 3 + 8 + 9
+
+Enter a example of the infix expression to see the result.
